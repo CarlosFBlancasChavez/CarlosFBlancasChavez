@@ -34,7 +34,7 @@ name: "Carlos"
 role: "Software Engineering Student & Backend-Focused Full Stack Developer"
 based_in: "Lima, Peru"
 focus: ["Backend Architecture (DDD + CQRS)", "Full Stack Development", "API Design", "Applied AI/ML"]
-currently: "Ad honorem Backend Developer at ELOMUX, building an internal ERP platform"
+currently: "Backend Developer at ELOMUX, building an internal ERP platform"
 ```
 
 I'm a Software Engineering student who treats every coursework project like a production system — bounded contexts, layered architecture, and real deployments instead of throwaway prototypes. My core strength is backend engineering with **Spring Boot** and **FastAPI/Django**, paired with pragmatic frontend work in **Angular** and **Vue 3** to ship complete, working products end-to-end.
