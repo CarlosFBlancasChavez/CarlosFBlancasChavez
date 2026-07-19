@@ -34,7 +34,6 @@
 name: "Carlos"
 role: "Software Engineering Student & Backend-Focused Full Stack Developer"
 based_in: "Lima, Peru"
-university: "Universidad Peruana de Ciencias Aplicadas (UPC)"
 focus: ["Backend Architecture (DDD + CQRS)", "Full Stack Development", "API Design", "Applied AI/ML"]
 currently: "Ad honorem Backend Developer at ELOMUX, building an internal ERP platform"
 ```
