@@ -1,28 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=CARLOS%20%7C%20SOFTWARE%20ENGINEER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Engineer%20%7C%20AI-Curious%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:1D4ED8,100:4ADE80&height=280&section=header&text=CARLOS%20%7C%20SOFTWARE%20ENGINEER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Engineer%20%7C%20AI-Curious%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+UPC;Backend+Developer+%7C+Spring+Boot+%2F+FastAPI+%2F+Django;Building+production-grade+systems+with+DDD+%2B+CQRS;Freelance+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86EFAC&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+UPC;Backend+Developer+%7C+Spring+Boot+%2F+FastAPI+%2F+Django;Building+production-grade+systems+with+DDD+%2B+CQRS;Freelance+Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/UPC-Universidad_Peruana_de_Ciencias_Aplicadas-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Lima%2C_Peru-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Lima%2C_Peru-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://carlosfblancaschavez.github.io/PortafolioNuevoCarlos/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/carlos-franco-blancas-ch%C3%A1vez-2365b72b3"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:carlosblancas967@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://carlosfblancaschavez.github.io/PortafolioNuevoCarlos/"><img src="https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carlos-franco-blancas-ch%C3%A1vez-2365b72b3"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:carlosblancas967@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=CarlosFBlancasChavez&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/CarlosFBlancasChavez?label=Followers&style=for-the-badge&color=6D28D9&logo=github"/>
-<img src="https://img.shields.io/github/stars/CarlosFBlancasChavez?label=Stars&style=for-the-badge&color=A78BFA&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=CarlosFBlancasChavez&label=Profile%20Views&color=4ADE80&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/CarlosFBlancasChavez?label=Followers&style=for-the-badge&color=2563EB&logo=github"/>
+<img src="https://img.shields.io/github/stars/CarlosFBlancasChavez?label=Stars&style=for-the-badge&color=86EFAC&logo=github"/>
 
 </div>
 
@@ -34,6 +33,7 @@
 name: "Carlos"
 role: "Software Engineering Student & Backend-Focused Full Stack Developer"
 based_in: "Lima, Peru"
+university: "Universidad Peruana de Ciencias Aplicadas (UPC)"
 focus: ["Backend Architecture (DDD + CQRS)", "Full Stack Development", "API Design", "Applied AI/ML"]
 currently: "Ad honorem Backend Developer at ELOMUX, building an internal ERP platform"
 ```
@@ -256,13 +256,13 @@ Delivering full stack applications for external clients alongside university cou
 
 **Coursera**
 
-<img src="https://img.shields.io/badge/Business_Intelligence_%26_Competitive_Analysis-Rutgers_University-8B5CF6?style=flat-square&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Inventory_Analytics-Rutgers_University-6D28D9?style=flat-square&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business_Intelligence_%26_Competitive_Analysis-Rutgers_University-4ADE80?style=flat-square&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inventory_Analytics-Rutgers_University-2563EB?style=flat-square&logo=coursera&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Relational_Database_Design-CU_Boulder-4C1D95?style=flat-square&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced_Topics_%26_Future_Trends_in_Database_Tech-CU_Boulder-7C3AED?style=flat-square&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Relational_Database_Design-CU_Boulder-1D4ED8?style=flat-square&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced_Topics_%26_Future_Trends_in_Database_Tech-CU_Boulder-3B82F6?style=flat-square&logo=coursera&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Databases_for_Data_Scientists-CU_Boulder-A78BFA?style=flat-square&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databases_for_Data_Scientists-CU_Boulder-86EFAC?style=flat-square&logo=coursera&logoColor=white"/>
 
 </div>
 
@@ -274,12 +274,12 @@ Delivering full stack applications for external clients alongside university cou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosFBlancasChavez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=CarlosFBlancasChavez&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosFBlancasChavez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86EFAC&icon_color=4ADE80&text_color=C9D1D9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=CarlosFBlancasChavez&theme=tokyonight&hide_border=true&background=0D1117&ring=4ADE80&fire=86EFAC&currStreakLabel=86EFAC" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFBlancasChavez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFBlancasChavez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86EFAC&text_color=C9D1D9" width="49%"/>
 
 </div>
 
@@ -303,7 +303,7 @@ Delivering full stack applications for external clients alongside university cou
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosFBlancasChavez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosFBlancasChavez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=86EFAC&line=4ADE80&point=C9D1D9"/>
 
 </div>
 
@@ -352,10 +352,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:carlosblancas967@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/carlos-franco-blancas-ch%C3%A1vez-2365b72b3"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://carlosfblancaschavez.github.io/PortafolioNuevoCarlos/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:carlosblancas967@gmail.com"><img src="https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carlos-franco-blancas-ch%C3%A1vez-2365b72b3"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://carlosfblancaschavez.github.io/PortafolioNuevoCarlos/"><img src="https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -365,6 +365,6 @@ open_to:
 
 *"Systems built with intention outlast systems built with haste."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:1D4ED8,100:4ADE80&height=150&section=footer"/>
 
 </div>
