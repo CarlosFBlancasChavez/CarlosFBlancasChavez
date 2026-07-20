@@ -1,56 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:1D4ED8,100:4ADE80&height=280&section=header&text=CARLOS%20%7C%20SOFTWARE%20ENGINEER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Engineer%20%7C%20AI-Curious%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:1D4ED8,100:4ADE80&height=280&section=header&text=CARLOS%20%7C%20SOFTWARE%20ENGINEER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86EFAC&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+UPC;Backend+Developer+%7C+Spring+Boot+%2F+FastAPI+%2F+Django;Building+production-grade+systems+with+DDD+%2B+CQRS;Freelance+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86EFAC&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+UPC;Backend+Developer+%7C+Spring+Boot+%2F+FastAPI+%2F+Django;Construyendo+sistemas+de+nivel+producci%C3%B3n+con+DDD+%2B+CQRS;Freelance+Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Lima%2C_Peru-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Lima%2C_Per%C3%BA-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://carlosfblancaschavez.github.io/PortafolioNuevoCarlos/"><img src="https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://carlosfblancaschavez.github.io/PortafolioNuevoCarlos/"><img src="https://img.shields.io/badge/Portafolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/carlos-franco-blancas-ch%C3%A1vez-2365b72b3"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:carlosblancas967@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:carlosblancas967@gmail.com"><img src="https://img.shields.io/badge/Correo-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=CarlosFBlancasChavez&label=Profile%20Views&color=4ADE80&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/CarlosFBlancasChavez?label=Followers&style=for-the-badge&color=2563EB&logo=github"/>
-<img src="https://img.shields.io/github/stars/CarlosFBlancasChavez?label=Stars&style=for-the-badge&color=86EFAC&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=CarlosFBlancasChavez&label=Visitas%20al%20Perfil&color=4ADE80&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/CarlosFBlancasChavez?label=Seguidores&style=for-the-badge&color=2563EB&logo=github"/>
+<img src="https://img.shields.io/github/stars/CarlosFBlancasChavez?label=Estrellas&style=for-the-badge&color=86EFAC&logo=github"/>
 
 </div>
 
 <br/>
 
-## ⟡ About Me
+## ⟡ Sobre Mí
 
 ```yaml
-name: "Carlos"
-role: "Software Engineering Student & Backend-Focused Full Stack Developer"
-based_in: "Lima, Peru"
-focus: ["Backend Architecture (DDD + CQRS)", "Full Stack Development", "API Design", "Applied AI/ML"]
-currently: "Backend Developer at ELOMUX, building an internal ERP platform"
+nombre: "Carlos"
+rol: "Estudiante de Ingeniería de Software & Backend-Focused Full Stack Developer"
+ubicacion: "Lima, Perú"
+enfoque: ["Arquitectura Backend", "Desarrollo Full Stack", "Diseño de APIs"]
+actualmente: "Backend Developer en ELOMUX, construyendo una plataforma ERP interna"
 ```
 
-I'm a Software Engineering student who treats every coursework project like a production system — bounded contexts, layered architecture, and real deployments instead of throwaway prototypes. My core strength is backend engineering with **Spring Boot** and **FastAPI/Django**, paired with pragmatic frontend work in **Angular** and **Vue 3** to ship complete, working products end-to-end.
+Soy estudiante de Ingeniería de Software y trato cada proyecto de curso como un sistema de producción real — bounded contexts, arquitectura por capas y despliegues reales en vez de prototipos desechables. Mi fuerte es la ingeniería backend con **Spring Boot** y **FastAPI/Django**, combinada con trabajo frontend pragmático en **Angular** y **Vue 3** para entregar productos completos y funcionales de principio a fin.
 
-Alongside my degree, I take on freelance and ad honorem engineering work — from a hospital biomedical-equipment tracking PWA to a company-wide ERP backend — because I'd rather learn architecture decisions under real constraints than only in the classroom.
+Además de la carrera, tomo trabajos freelance,desde una PWA de seguimiento de equipos biomédicos para un hospital hasta el backend de un ERP empresarial, porque prefiero aprender decisiones de arquitectura bajo restricciones reales, no solo en el salón de clases.
 
 <table>
 <tr>
 <td>
 
-**🎯 Open To**
-- Backend Engineering roles (Java / Python)
-- Full Stack opportunities
-- Freelance & contract projects
-- Open source collaboration
-- Technical mentorship & pairing
+**🎯 Disponible Para**
+- Roles de Backend Engineering (Java / Python)
+- Oportunidades Full Stack
+- Proyectos freelance / por contrato
+- Colaboración en open source
+- Mentoría técnica y pair programming
 
 </td>
 </tr>
@@ -60,11 +60,11 @@ Alongside my degree, I take on freelance and ad honorem engineering work — fro
 
 ---
 
-## ⟡ Tech Stack
+## ⟡ Stack Tecnológico
 
 <div align="center">
 
-**Languages**
+**Lenguajes**
 
 <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,html,css&theme=dark"/>
 
@@ -72,11 +72,11 @@ Alongside my degree, I take on freelance and ad honorem engineering work — fro
 
 <img src="https://skillicons.dev/icons?i=angular,vue,react,vite,tailwind&theme=dark"/>
 
-**Backend & Databases**
+**Backend & Bases de Datos**
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,mysql,postgres&theme=dark"/>
 
-**Cloud, DevOps & Tooling**
+**Cloud, DevOps & Herramientas**
 
 <img src="https://skillicons.dev/icons?i=git,github,railway,vercel,postman,idea,vscode,figma&theme=dark"/>
 
@@ -86,115 +86,98 @@ Alongside my degree, I take on freelance and ad honorem engineering work — fro
 
 ---
 
-## ⟡ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| AI-Assisted Design & Prototyping | ⭐⭐⭐⭐ | Uses AI-driven UI generation (Stitch) for wireframes & high-fidelity mockups in product design cycles |
-| Applied Data Analysis | ⭐⭐⭐ | Statistical analysis, probability distributions, and data modeling with R/Excel on real datasets |
-| API-Integrated Intelligent Systems | ⭐⭐⭐ | Designs backend systems architected to support future ML-driven features (alerting, scoring, recommendations) |
-| Prompt Engineering | ⭐⭐⭐ | Structures technical prompts for architecture generation and reference-driven scaffolding |
-
-</div>
-
-<br/>
-
----
-
-## ⟡ Featured Projects
+## ⟡ Proyectos Destacados
 
 <details>
-<summary><b>🚌 SafeBus — Bus Driver Security Platform (UrbanGuard)</b></summary>
+<summary><b> SafeBus — Plataforma de Seguridad para Conductores de Bus (UrbanGuard)</b></summary>
 <br/>
 
-A safety and monitoring platform for bus drivers in Lima, built as a Domain-Driven Design system with five bounded contexts covering identity, alerting, monitoring, and IoT data ingestion.
+Plataforma de seguridad y monitoreo para conductores de bus en Lima, construida con Domain-Driven Design y cinco bounded contexts que cubren identidad, alertas, monitoreo e ingesta de datos IoT.
 
 | | |
 |---|---|
 | **Stack** | Spring Boot 4 (Java 21) · Angular · MySQL |
-| **Scale** | 5 bounded contexts (IAM, Alert Management, Monitoring, User Management, IoT Monitoring) |
-| **Performance** | CQRS-separated read/write paths per context |
-| **Security** | JWT-based IAM context, role-scoped access |
-| **Impact** | Deployed backend (Railway) + frontend (Vercel), full sprint documentation delivered |
-| **Repository** | `OpenSource-Grupo-1/SafeBus` |
+| **Escala** | 5 bounded contexts (IAM, Alert Management, Monitoring, User Management, IoT Monitoring) |
+| **Rendimiento** | Rutas de lectura/escritura separadas por contexto (CQRS) |
+| **Seguridad** | Contexto IAM basado en JWT, acceso por roles |
+| **Impacto** | Backend desplegado en Railway + frontend en Vercel, documentación completa de sprints entregada |
+| **Repositorio** | `OpenSource-Grupo-1/SafeBus` |
 
-Built as a group project using DDD + CQRS architecture, with the Angular frontend following a signals-based, standalone-component structure and a mock JSON API layer for independent frontend iteration.
+Proyecto grupal construido con arquitectura DDD + CQRS, con el frontend en Angular siguiendo una estructura basada en signals y componentes standalone, con una capa de API simulada en JSON para iteración independiente del frontend.
 
 </details>
 
 <details>
-<summary><b>🛡️ RiskGuard — Industrial Safety Incident Platform</b></summary>
+<summary><b> RiskGuard — Plataforma de Incidentes de Seguridad Industrial</b></summary>
 <br/>
 
-An incident registration and tracking system for industrial safety, covering areas, headquarters, inspections, and asset management.
+Sistema de registro y seguimiento de incidentes de seguridad industrial, cubriendo áreas, sedes, inspecciones y gestión de activos.
 
 | | |
 |---|---|
 | **Stack** | Vue.js · C# / ASP.NET Core · React + Vite (landing) |
-| **Scale** | 4 core domain endpoints: Areas, Headquarters, Inspections, Assets |
-| **Performance** | RESTful ASP.NET Core backend deployed on Render |
-| **Security** | JWT authentication with role-based access control |
-| **Impact** | Full lifecycle delivery: Figma UI design → landing page → backend → live demo |
-| **Repository** | Aplicaciones Web — Group Project |
+| **Escala** | 4 endpoints de dominio principales: Áreas, Sedes, Inspecciones, Activos |
+| **Rendimiento** | Backend RESTful en ASP.NET Core desplegado en Render |
+| **Seguridad** | Autenticación JWT con control de acceso basado en roles |
+| **Impacto** | Entrega de ciclo completo: diseño UI en Figma → landing page → backend → demo en vivo |
+| **Repositorio** | Aplicaciones Web — Proyecto Grupal |
 
-Navigated real-world authentication edge cases (role scoping, Swagger auth quirks) while building out the ASP.NET Core API layer.
+Se resolvieron casos reales de autenticación (roles, particularidades de auth en Swagger) durante la construcción de la capa de API en ASP.NET Core.
 
 </details>
 
 <details>
-<summary><b>🏢 ELISA ERP — Internal ERP Platform (ELOMUX)</b></summary>
+<summary><b>🏢 ELISA ERP — Plataforma ERP Interna (ELOMUX)</b></summary>
 <br/>
 
-An internal enterprise resource planning system built as an ad honorem backend engineering collaboration, using a hybrid ORM + API architecture.
+Sistema ERP interno construido como colaboración de ingeniería backend, usando una arquitectura híbrida ORM + API.
 
 | | |
 |---|---|
-| **Stack** | Django (ORM & Admin) · FastAPI (API layer) · PostgreSQL · Pydantic |
-| **Scale** | Multi-module ERP (CRM, roles, catalogs, alerts, projects, and more) |
-| **Performance** | MVC-separated routers/schemas/models with layered request handling |
-| **Security** | JWT stateless authentication, role-based permission tiers |
-| **Impact** | Passed technical assessment; actively contributing to a live team backlog |
-| **Repository** | Private (company-owned) |
+| **Stack** | Django (ORM & Admin) · FastAPI (capa de API) · PostgreSQL · Pydantic |
+| **Escala** | ERP multi-módulo (CRM, roles, catálogos, alertas, proyectos, entre otros) |
+| **Rendimiento** | Routers/schemas/models separados en capas (MVC) |
+| **Seguridad** | Autenticación JWT stateless, niveles de permisos por rol |
+| **Impacto** | Prueba técnica aprobada; contribución activa a un backlog de equipo en producción |
+| **Repositorio** | Privado (propiedad de la empresa) |
 
-Working within a structured engineering team process — feature-branch workflow, functional-requirement-scoped commits, and PR-based review — on a hybrid Django/FastAPI backend architecture.
+Trabajo dentro de un proceso de equipo de ingeniería estructurado , flujo de feature-branches, commits por requerimiento funcional y revisión vía Pull Request sobre una arquitectura backend híbrida Django/FastAPI.
 
 </details>
 
 <details>
-<summary><b>🚗 FinanzaAuto Perú — Vehicle Credit System</b></summary>
+<summary><b> FinanzaAuto Perú — Sistema de Crédito Vehicular</b></summary>
 <br/>
 
-A financial system for simulating and managing vehicle credit lines with real amortization logic.
+Sistema financiero para simular y gestionar líneas de crédito vehicular con lógica de amortización real.
 
 | | |
 |---|---|
 | **Stack** | Angular · FastAPI · MySQL |
-| **Scale** | Full credit lifecycle: simulation, grace periods, indicators |
-| **Performance** | French amortization schedule calculations |
-| **Security** | API-layer validation via Pydantic schemas |
-| **Impact** | Delivered as a complete exam-style production simulation |
-| **Repository** | Coursework Project |
+| **Escala** | Ciclo completo de crédito: simulación, periodos de gracia, indicadores |
+| **Rendimiento** | Cálculo de cronograma de amortización francesa |
+| **Seguridad** | Validación en capa de API vía schemas de Pydantic |
+| **Impacto** | Entregado como simulación completa de examen |
+| **Repositorio** | Proyecto de curso |
 
-Implemented financial engineering logic (French amortization, grace periods) alongside a full API + frontend integration.
+Se implementó lógica de ingeniería financiera (amortización francesa, periodos de gracia) junto con una integración completa de API + frontend.
 
 </details>
 
 <details>
-<summary><b>🏥 Biomedical Equipment Maintenance Tracker (Freelance)</b></summary>
+<summary><b>🏥 Seguimiento de Mantenimiento de Equipos Biomédicos (Freelance)</b></summary>
 <br/>
 
-A maintenance-tracking Progressive Web App delivered for a hospital client to monitor biomedical equipment status.
+PWA de seguimiento de mantenimiento entregada a un cliente hospitalario para monitorear el estado de equipos biomédicos.
 
 | | |
 |---|---|
-| **Stack** | PWA (multi-file architecture) |
-| **Scale** | Full equipment lifecycle tracking |
-| **Performance** | Traffic-light semaphore system for maintenance status |
-| **Security** | Client-scoped deployment |
-| **Impact** | Delivered as a complete freelance engagement for a real hospital client |
-| **Repository** | Private (client project) |
+| **Stack** | PWA (arquitectura multi-archivo) |
+| **Escala** | Seguimiento del ciclo de vida completo de los equipos |
+| **Rendimiento** | Sistema de semáforo para el estado de mantenimiento |
+| **Seguridad** | Despliegue acotado al cliente |
+| **Impacto** | Entregado como proyecto freelance completo para un cliente hospitalario real |
+| **Repositorio** | Privado (proyecto de cliente) |
 
 </details>
 
@@ -202,54 +185,39 @@ A maintenance-tracking Progressive Web App delivered for a hospital client to mo
 
 ---
 
-## ⟡ Experience
+## ⟡ Experiencia
 
 **Backend Developer**
-**ELOMUX** · *Ongoing*
+**ELOMUX** · *En curso*
 
-Collaborating on ELISA ERP, an internal enterprise resource planning system, within a structured engineering team.
+Desarrollador Backend en ELISA ERP, un sistema de planificación de recursos empresariales interno, dentro de un equipo de ingeniería estructurado.
 
-- Passed a full technical assessment (FastAPI + PostgreSQL CRUD with clean MVC structure)
-- Working within a hybrid Django ORM + FastAPI routing architecture
-- Following team Git standards: functional-requirement-scoped commits, feature branches, PR-based review
-- Collaborating cross-functionally across Backend, Frontend, and Database teams via structured reporting
+- Aprobé una prueba técnica completa (CRUD con FastAPI + PostgreSQL y estructura MVC limpia)
+- Trabajo dentro de una arquitectura híbrida Django ORM + rutas en FastAPI
+- Sigo los estándares de Git del equipo: commits por requerimiento funcional, feature branches, revisión vía Pull Request
+- Colaboro de forma transversal con los equipos de Backend, Frontend y Base de Datos mediante reportes estructurados
 
 `Python` `FastAPI` `Django` `PostgreSQL` `JWT` `REST APIs`
 
 <br/>
 
 **Freelance Software Developer**
-**Independent** · *Ongoing*
+**Independiente** · *En curso*
 
-Delivering full stack applications for external clients alongside university coursework.
+Entrega aplicaciones full stack para clientes externos en paralelo con los estudios universitarios.
 
-- Built a biomedical equipment maintenance tracking PWA for a hospital client
-- Designed and implemented a vehicle credit simulation system with real financial logic
-- Managed full project lifecycles: requirements, design, implementation, delivery
+- Construyó una PWA de seguimiento de mantenimiento de equipos biomédicos para un cliente hospitalario
+- Diseñó e implementó un sistema de simulación de crédito vehicular con lógica financiera real
+- Gestionó ciclos de proyecto completos: requerimientos, diseño, implementación, entrega
 
 `Angular` `FastAPI` `MySQL` `PWA`
 
 <br/>
-
----
-
-## ⟡ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| ELOMUX Technical Assessment | Passed full backend technical evaluation (FastAPI + PostgreSQL, complete CRUD) |
-| SafeBus Sprint Delivery | Delivered full backend architecture + deployment across 3 sprints |
-| Freelance Client Delivery | Successfully delivered a production PWA to a hospital client |
-
-</div>
-
 <br/>
 
 ---
 
-## ⟡ Certifications
+## ⟡ Certificaciones
 
 <div align="center">
 
@@ -269,7 +237,7 @@ Delivering full stack applications for external clients alongside university cou
 
 ---
 
-## ⟡ GitHub Analytics
+## ⟡ Analítica de GitHub
 
 <div align="center">
 
@@ -286,7 +254,7 @@ Delivering full stack applications for external clients alongside university cou
 
 ---
 
-## ⟡ GitHub Trophies
+## ⟡ Trofeos de GitHub
 
 <div align="center">
 
@@ -298,7 +266,7 @@ Delivering full stack applications for external clients alongside university cou
 
 ---
 
-## ⟡ Contribution Activity
+## ⟡ Actividad de Contribuciones
 
 <div align="center">
 
@@ -310,7 +278,7 @@ Delivering full stack applications for external clients alongside university cou
 
 ---
 
-## ⟡ Contribution Snake
+## ⟡ Serpiente de Contribuciones
 
 <div align="center">
 
@@ -322,39 +290,37 @@ Delivering full stack applications for external clients alongside university cou
 
 ---
 
-## ⟡ Current Focus
+## ⟡ Enfoque Actual
 
 ```yaml
-learning:
-  - Advanced DDD + CQRS architecture patterns
-  - Applied AI/ML for backend-integrated systems
+aprendiendo:
+  - Patrones avanzados de arquitectura DDD + CQRS
 
-building:
-  - ELISA ERP backend modules (ELOMUX)
-  - Personal full stack side projects
+construyendo:
+  - Módulos backend de ELISA ERP (ELOMUX)
+  - Proyectos personales full stack
 
-exploring:
-  - Event-driven architecture
-  - AI-assisted product engineering workflows
+explorando:
+  - Arquitectura orientada a eventos
 
-open_to:
-  - Backend & Full Stack roles
-  - Freelance engineering collaborations
-  - Open source contributions
+disponible_para:
+  - Roles de Backend & Full Stack
+  - Colaboraciones freelance de ingeniería
+  - Contribuciones open source
 ```
 
 <br/>
 
 ---
 
-## ⟡ Connect
+## ⟡ Contacto
 
 <div align="center">
 
 <a href="mailto:carlosblancas967@gmail.com"><img src="https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/carlos-franco-blancas-ch%C3%A1vez-2365b72b3"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://carlosfblancaschavez.github.io/PortafolioNuevoCarlos/"><img src="https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://carlosfblancaschavez.github.io/PortafolioNuevoCarlos/"><img src="https://img.shields.io/badge/Portafolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -362,7 +328,7 @@ open_to:
 
 <div align="center">
 
-*"Systems built with intention outlast systems built with haste."*
+*"Los sistemas construidos con intención perduran más que los construidos con prisa."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:1D4ED8,100:4ADE80&height=150&section=footer"/>
 
