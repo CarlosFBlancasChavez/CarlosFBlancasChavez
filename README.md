@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:1D4ED8,100:4ADE80&height=280&section=header&text=CARLOS%20%7C%20SOFTWARE%20ENGINEER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86EFAC&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+Developer+%7C+Spring+Boot+%2F+FastAPI+%2F+Django;Construyendo+sistemas+de+nivel+producci%C3%B3n+con+DDD+%2B+CQRS;Freelance+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86EFAC&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40;Backend+Developer+%7C+Spring+Boot+%2F+FastAPI+%2F+Django;Construyendo+sistemas+de+nivel+producci%C3%B3n+con+DDD+%2B+CQRS;Freelance+Full+Stack+Developer" alt="Typing SVG" />
+</a>
+
 </a>
 
 <br/>
